@@ -45,6 +45,10 @@
   <ItemGroup>
     <Compile Include="Basic DS\QueueDS.cs" />
     <Compile Include="Basic DS\StackDS.cs" />
+    <Compile Include="LinkedList\CircularLinkedList.cs" />
+    <Compile Include="LinkedList\Class\Node.cs" />
+    <Compile Include="LinkedList\DoulbyLinkedList.cs" />
+    <Compile Include="LinkedList\SinglyLinkedList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
