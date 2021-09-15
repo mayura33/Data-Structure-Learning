@@ -13,7 +13,8 @@ namespace Datastructure.Sort
         {
             Sorting sort = new Sorting();
             int[] numArr = new int[6] { 3, 7, 1, 2, 8, 10 };
-            sort.DisplayArray(sort.DoInsertionSort(numArr));
+            sort.DisplayArray(numArr);
+
         }
 
         public int[] DoSelectionSort(int[] numArr)
