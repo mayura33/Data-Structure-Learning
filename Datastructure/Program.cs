@@ -14,7 +14,8 @@ namespace Datastructure
     {
         static void Main(string[] args)
         {
-            Sorting.Execute();
+
+            BST.Execute();
             Console.ReadLine();
         }
     }
