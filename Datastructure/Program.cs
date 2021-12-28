@@ -14,7 +14,9 @@ namespace Datastructure
     {
         static void Main(string[] args)
         {
-
+            Dictionary<string, string> keyValues = new Dictionary<string, string>();
+            keyValues.Add("1", "2222");
+            keyValues.Add("2", "4444");
             BST.Execute();
             Console.ReadLine();
         }
